@@ -4,7 +4,7 @@ OJS and OMP use the [Smarty](http://www.smarty.net/) templating system to compil
 
 ## Locating the Frontend Templates
 
-Every template file used for the frontend, public-facing journal or press website will be found in a special directory that is kept separate from the template files used to power the application's backend, editorial interface. This allows you to more safely customize the frontend without effecting the backend, and significantly reduces the amount of work you must do to build a custom theme.
+Every template file used for the frontend, public-facing journal or press website will be found in a special directory that is kept separate from the template files used to power the application's backend, editorial interface. This allows you to more safely customize the frontend without affecting the backend, and significantly reduces the amount of work you must do to build a custom theme.
 
 Every frontend template can be found at one of a few places.
 
