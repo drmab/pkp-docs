@@ -67,7 +67,7 @@ styles/structure.less
 styles/forms.less
 ```
 
-If your journal decides to change it's branding from red to blue, you only need to update one line in your theme's code:
+If your journal decides to change its branding from red to blue, you only need to update one line in your theme's code:
 
 ```
 // styles/variable.less
